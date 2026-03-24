@@ -1,7 +1,12 @@
 # Rapids Single Cell Comparison 
 
 ## Description
-Comparison of `singlecell-rapids` and `scanpy` for single-cell RNA-seq data analysis
+Comparison of `singlecell-rapids` and `scanpy` for single-cell RNA-seq data analysis.
+
+This repository contains the following notebooks:
+- [`scanpy-clustering.ipynb`](./scanpy-clustering.ipynb): Clustering of single-cell data using `scanpy`.
+- [`rapids-clustering.ipynb`](./rapids-clustering.ipynb): Clustering of single-cell data using `singlecell-rapids`
+- [`compare.ipynb`](./compare.ipynb): Comparison of the clustering results from `scanpy` and `singlecell-rapids`
 
 
 ## Container information
