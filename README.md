@@ -47,5 +47,5 @@ singularity exec \
 
 Open ssh connection in separate terminal
 ```bash
-ssh -L 7878:localhost:7878 farm22-gpu0204
+ssh -L 7878:localhost:7878 <node-name>
 ```
